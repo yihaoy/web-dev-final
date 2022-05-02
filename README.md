@@ -1,4 +1,4 @@
-# The Movie Club
+# Movie Club
 
 This is a platform for movies lovers and creators to coneect
 
